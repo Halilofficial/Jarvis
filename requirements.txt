@@ -1,0 +1,8 @@
+python-dotenv
+requests
+pyaudio
+gTTS
+SpeechRecognition
+PyQt5
+openai
+websocket-client
